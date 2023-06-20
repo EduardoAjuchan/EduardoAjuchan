@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Ajuchan</h1>
 <h3 align="center">A passionate student to be frontend developer from Guatemala</h3>
 
-- 🧑🏻‍🎓 I’m third-year **systems engineering student** and I'm passionate about learning frontend development.
+- 🧑🏻‍🎓 I’m third-year **SYSTEMS ENGINEERING STUDENT** and I'm passionate about learning frontend development.
 
 - 🌱 I’m currently learning **Frontend courses, framworks, database, web desing**
 

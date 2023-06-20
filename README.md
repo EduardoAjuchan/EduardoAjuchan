@@ -1,6 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pkbWlsaTNlNHJxMWZjMGJpMW5laHo1OTNtd2R4Z291dHh5NWpteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QShN4g6H3RBWwiEzeN/giphy.gif" width ="150"></div>
 <h1 align="center">Hi 👋, I'm Eduardo Ajuchan</h1>
-<h3 align="center">A passionate frontend developer trainee from Guatemala</h3>
+<h3 align="center">A passionate student to be frontend developer from Guatemala</h3>
+
+- 🧑🏻‍🎓 I’m third-year **systems engineering student** and I'm passionate about learning frontend development.
 
 - 🌱 I’m currently learning **Frontend courses, framworks, database, web desing**
 

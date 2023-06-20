@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend courses, framworks, database, web desing**
 
-- 📝 I regularly write articles on [https://openwebinars.net/blog/lenguaje-programacion/](https://openwebinars.net/blog/lenguaje-programacion/)
+- 📝 I regularly read articles on [https://openwebinars.net/blog/lenguaje-programacion/](https://openwebinars.net/blog/lenguaje-programacion/)
 
 - 💬 Ask me about **Web design, html, css, javascript, react**
 

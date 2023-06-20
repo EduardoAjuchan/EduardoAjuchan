@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **eduardoajuchan@gmail.com**
 
-- ⚡ Fun fact **My favorite superheroe is Spiderman** 🕷️🕸️
+- ⚡ Fun fact **My favorite superhero is Spiderman** 🕷️🕸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

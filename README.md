@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **eduardoajuchan@gmail.com**
 
-- ⚡ Fun fact **I love Spiderman**
+- ⚡ Fun fact **I love Spiderman** 🕷️🕸️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
